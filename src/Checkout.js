@@ -37,7 +37,7 @@ export default function Checkout() {
       transactionId: '79a91569-5b12-40ee-929f-8bc9462e55bd',
       amount: 127.32,
       currency: 'EUR',
-      productIds: ['I=MX;P=000;A=COBS4'],
+      productIds: ['I=MX;P=000;A=COBS4']
     });
   });
 
